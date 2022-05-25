@@ -1,6 +1,6 @@
 # Project Overview
 
-🚀 <b>Chatz-IO</b> is a fully responsive public chat web application where anyone with a valid google account can sign in and start messeging instantly. The application contains follwing features;<br/>
+🚀 <b>Chatz-IO</b> is a fully responsive public chat web application where anyone with a valid google account can sign in and start messaging instantly. The application contains follwing features;<br/>
 - Google Authentication<br/>
 - Dark & Ligt theme<br/>
 - View old messages<br/>
